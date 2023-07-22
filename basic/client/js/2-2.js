@@ -13,7 +13,6 @@ const user = prompt('입력해봐라','');
 const index = getRandomValue(3);
 const computer = result[index];
 
-
 // 게임 함수
 function game(user, computer) {
 	
